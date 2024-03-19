@@ -1,3 +1,4 @@
+<!-- 
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -7,8 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-test 1.
+-->
+I will be a research fellow at University of Ottawa, working with Prof. [Lionel Briand](https://www.lbriand.info).
 
 Research Interests
 ======
