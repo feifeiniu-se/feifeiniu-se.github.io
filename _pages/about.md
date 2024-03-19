@@ -11,10 +11,22 @@ redirect_from:
 -->
 I will be a research fellow at University of Ottawa, working with Prof. [Lionel Briand](https://www.lbriand.info).
 
+I received my Ph.D. from Nanjing University in 2023. I received my B.S. in Software Engineering from Tianjin University.
+
+
 Research Interests
 ======
-My research interests lie in bug localization, defect detection, code refactoring, code generation...
+Software Quality Assurance
 
-Getting started
+Software Testing
+
+Requirements Quality Assurance
+
+Large Language Model
+
+
+Services
 ======
-test 2
+Student volunteer at ICSE 2023
+
+Reviewer of TOSEM, JSEP, IEEE Software, ASE Journal, FORGE (2024)
