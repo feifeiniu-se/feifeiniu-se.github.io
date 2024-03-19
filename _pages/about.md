@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I will be a research fellow at University of Ottawa, working with Prof. Lionel Briand.
+I will be a research fellow at University of Ottawa, working with Prof. [Lionel Briand](https://www.lbriand.info).
 
 I received my Ph.D. from Nanjing University in 2023. I received my B.S. in Software Engineering from Tianjin University.
 
