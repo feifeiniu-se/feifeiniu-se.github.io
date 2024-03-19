@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Feifei Niu / PhD"
+title                    : "Feifei Niu / Dr."
 title_separator          : "-"
 name                     : &name "Feifei Niu"
-description              : &description "A PhD student in Software Engineering"
+description              : &description "Research Fellow Software Engineering"
 url                      : https://feifeiniu-se.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "feifeiniu-se.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Feifei Niu"
   avatar           : "profile.png"
-  bio              : "A PhD student in Nanjing University"
-  location         : "Nanjing, China"
+  bio              : "Research Fellow"
+  location         : "Ottawa, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ct6aDdwAAAAJ&hl=zh-CN"
