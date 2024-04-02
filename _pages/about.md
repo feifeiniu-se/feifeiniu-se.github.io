@@ -33,6 +33,12 @@ Publications
 
 **[IIoTBDSC'2021]** **Feifei Niu**, Chuanyi Li, Bin Luo: “A Deep Classifier for Crowdsourcing User Requests”, in Modern Industrial IoT, Big Data and Supply Chain, 2021. [🔗](https://link.springer.com/chapter/10.1007/978-981-33-6141-6_2)
 
+Patents
+======
+Chuanyi Li, **Feifei Niu**, Jidong Ge. A Token Log based Business Process Model Similarity Measurement. (202110045604.8) (In Chinese)
+
+Chuanyi Li, Jidong Ge, **Feifei Niu**, Xiaoyu Zhou, Bin Luo. A Framework for Crowdsourcing Software Assets Management and Analysis. (201911048873.9)(In Chinese)
+
 Services
 ======
 Student volunteer at ICSE 2023
