@@ -11,6 +11,8 @@ I am a research fellow at the University of Ottawa, working with Prof. [Lionel B
 
 I received my Ph.D. in Software Engineering from Nanjing University in 2023, co-supervised by Prof. Bin Luo, Prof. [Jidong Ge](https://gjdnju.github.io), and Dr. [Chuanyi Li](http://lichuanyi.site/publication.html). Since 2022, I have collaborated with Prof. [Alexander Egyed](http://140.78.115.16/alexander.egyed/), Prof. [Liguo Huang](https://s2.smu.edu/~lghuang/), Prof. [Wesley K. G. Assunção](https://wesleyklewerton.github.io), and Dr. [Christoph Mayr-Dorn](https://christophdorn.wordpress.com) on refactoring-based bug localization and defect prediction research. Before that, I received my B.S. in Software Engineering from Tianjin University in 2018.
 
+Contact me at: feifeiniu@gmail.com
+
 Research Interests
 ======
 Software Quality Assurance, Software Testing, Requirements Engineering, AI4SE
