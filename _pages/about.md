@@ -25,13 +25,13 @@ Publications
 
 **[2023'MSR 🏆]** **Feifei Niu**, Christoph Mayr-Dorn, Wesley K. G. Assunçao, LiGuo Huang, Jidong Ge, Bin Luo, Alexander Egyed: “The ABLoTS Approach for Bug Localization: is it replicable and generalizable?”, in 20th International Conference on Mining Software Repositories, ACM Distinguished Paper Award, 2023. [🔗](https://ieeexplore.ieee.org/abstract/document/10173939)
 
-**[软件学报‘2023]** **Feifei Niu**, Chuanyi Li, Jidong Ge, Bin Luo: “用户特征请求分析与处理研究综述”, 软件学报(2023). [🔗]( https://www.jos.org.cn/jos/article/pdf/6558)
+**[2023'软件学报]** **Feifei Niu**, Chuanyi Li, Jidong Ge, Bin Luo: “用户特征请求分析与处理研究综述”, 软件学报(2023). [🔗]( https://www.jos.org.cn/jos/article/pdf/6558)
 
-**[TSC'2022]** **Feifei Niu**, Chuanyi Li, Jidong Ge, Lijie Wen, Zhongjin Li, Bin Luo: “Measuring Business Process Behavioral Similarity Based on Token Log Profile”, in IEEE Transactions on Services Computing (2022) pp. 3344–3357. IEEE, 2022. [🔗](https://ieeexplore.ieee.org/abstract/document/9514474)
+**[2022'TSC]** **Feifei Niu**, Chuanyi Li, Jidong Ge, Lijie Wen, Zhongjin Li, Bin Luo: “Measuring Business Process Behavioral Similarity Based on Token Log Profile”, in IEEE Transactions on Services Computing (2022) pp. 3344–3357. IEEE, 2022. [🔗](https://ieeexplore.ieee.org/abstract/document/9514474)
 
-**[Internetware'2022]** **Feifei Niu**, Chuanyi Li, Heng Chen, Jidong Ge, Bin Luo: “Towards Just-In-Time Feature Request Approval Prediction”, in 13th Asia Pacific Symposium on Internetware, 2022. [🔗](https://dl.acm.org/doi/abs/10.1145/3545258.3545265)
+**[2022'Internetware]** **Feifei Niu**, Chuanyi Li, Heng Chen, Jidong Ge, Bin Luo: “Towards Just-In-Time Feature Request Approval Prediction”, in 13th Asia Pacific Symposium on Internetware, 2022. [🔗](https://dl.acm.org/doi/abs/10.1145/3545258.3545265)
 
-**[IIoTBDSC'2021]** **Feifei Niu**, Chuanyi Li, Bin Luo: “A Deep Classifier for Crowdsourcing User Requests”, in Modern Industrial IoT, Big Data and Supply Chain, 2021. [🔗](https://link.springer.com/chapter/10.1007/978-981-33-6141-6_2)
+**[2021'IIoTBDSC]** **Feifei Niu**, Chuanyi Li, Bin Luo: “A Deep Classifier for Crowdsourcing User Requests”, in Modern Industrial IoT, Big Data and Supply Chain, 2021. [🔗](https://link.springer.com/chapter/10.1007/978-981-33-6141-6_2)
 
 Patents
 ======
