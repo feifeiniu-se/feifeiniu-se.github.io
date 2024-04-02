@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a research fellow at the University of Ottawa, working with Prof. [Lionel Briand](https://www.lbriand.info).
 
-I received my Ph.D. in Software Engineering from Nanjing University in 2023, co-supervised by Prof. Bin Luo, Prof. [Jidong Ge](https://gjdnju.github.io), and Dr. [Chuanyi Li](http://lichuanyi.site/publication.html). From 2022, I have been working with Prof. [Alexander Egyed](http://140.78.115.16/alexander.egyed/), Prof. [Liguo Huang](https://s2.smu.edu/~lghuang/), Prof. [Wesley K. G. Assunção](https://wesleyklewerton.github.io), and Dr. [Christoph Mayr-Dorn](https://christophdorn.wordpress.com) on bug localization and code refactoring. I received my B.S. in Software Engineering from Tianjin University in 2018.
+I received my Ph.D. in Software Engineering from Nanjing University in 2023, co-supervised by Prof. Bin Luo, Prof. [Jidong Ge](https://gjdnju.github.io), and Dr. [Chuanyi Li](http://lichuanyi.site/publication.html). Since 2022, I have collaborated with Prof. [Alexander Egyed](http://140.78.115.16/alexander.egyed/), Prof. [Liguo Huang](https://s2.smu.edu/~lghuang/), Prof. [Wesley K. G. Assunção](https://wesleyklewerton.github.io), and Dr. [Christoph Mayr-Dorn](https://christophdorn.wordpress.com) on refactoring-based bug localization and defect prediction research. Before that, I received my B.S. in Software Engineering from Tianjin University in 2018.
 
 Research Interests
 ======
@@ -38,6 +38,10 @@ Patents
 Chuanyi Li, **Feifei Niu**, Jidong Ge. A Token Log based Business Process Model Similarity Measurement. (202110045604.8) (In Chinese)
 
 Chuanyi Li, Jidong Ge, **Feifei Niu**, Xiaoyu Zhou, Bin Luo. A Framework for Crowdsourcing Software Assets Management and Analysis. (201911048873.9)(In Chinese)
+
+Tools
+======
+[RAT](https://github.com/feifeiniu-se/RAT_Demo) is a refactoring-aware traceability tool for code history. Welcome to come up with more requests~
 
 Services
 ======
