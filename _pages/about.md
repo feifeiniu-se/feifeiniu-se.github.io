@@ -23,7 +23,7 @@ Publications
 
 **[2023'ICSE]** **Feifei Niu**, Wesley K. G. Assunçao, LiGuo Huang, Christoph Mayr-Dorn, Jidong Ge, Bin Luo, Alexander Egyed: “RAT: A Refactoring-Aware Traceability Model for Bug Localization”, in 45th International Conference on Software Engineering, 2023.
 
-**[2023'MSR ACM Distinguished Paper 🏆]** **Feifei Niu**, Christoph Mayr-Dorn, Wesley K. G. Assunçao, LiGuo Huang, Jidong Ge, Bin Luo, Alexander Egyed: “The ABLoTS Approach for Bug Localization: is it replicable and generalizable?”, in 20th International Conference on Mining Software Repositories, ACM Distinguished Paper Award, 2023.
+**[2023'MSR 🏆]** **Feifei Niu**, Christoph Mayr-Dorn, Wesley K. G. Assunçao, LiGuo Huang, Jidong Ge, Bin Luo, Alexander Egyed: “The ABLoTS Approach for Bug Localization: is it replicable and generalizable?”, in 20th International Conference on Mining Software Repositories, ACM Distinguished Paper Award, 2023.
 
 **[软件学报‘2023]** **Feifei Niu**, Chuanyi Li, Jidong Ge, Bin Luo: “用户特征请求分析与处理研究综述”, 软件学报(2023).
 
