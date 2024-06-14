@@ -9,9 +9,9 @@ redirect_from:
 ---
 I am a research fellow at the University of Ottawa, working with Prof. [Lionel Briand](https://www.lbriand.info).
 
-I received my Ph.D. in Software Engineering from Nanjing University in 2023, co-supervised by Prof. Bin Luo, Prof. [Jidong Ge](https://gjdnju.github.io), and Dr. [Chuanyi Li](http://lichuanyi.site/publication.html). Since 2022, I have collaborated with Prof. [Alexander Egyed](http://140.78.115.16/alexander.egyed/), Prof. [Liguo Huang](https://s2.smu.edu/~lghuang/), Prof. [Wesley K. G. Assunção](https://wesleyklewerton.github.io), and Dr. [Christoph Mayr-Dorn](https://christophdorn.wordpress.com) on refactoring-based bug localization and defect prediction research. Before that, I received my B.S. in Software Engineering from Tianjin University in 2018.
+I received my Ph.D. in Software Engineering from Nanjing University in 2023, co-supervised by Prof. Bin Luo, Prof. [Jidong Ge](https://gjdnju.github.io), and Dr. [Chuanyi Li](http://lichuanyi.site/publication.html). Since 2022, I have been collaborating with Prof. [Alexander Egyed](http://140.78.115.16/alexander.egyed/), Prof. [Liguo Huang](https://s2.smu.edu/~lghuang/), Prof. [Wesley K. G. Assunção](https://wesleyklewerton.github.io), and Dr. [Christoph Mayr-Dorn](https://christophdorn.wordpress.com) on refactoring-based bug localization and defect prediction research. Before that, I received my B.S. in Software Engineering from Tianjin University in 2018.
 
-Contact me at: feifeiniu AT gmail.com OR fniu2 AT uottawa.ca
+Contact me at: feifeiniu96@gmail.com OR fniu2@uottawa.ca
 
 Research Interests
 ======
