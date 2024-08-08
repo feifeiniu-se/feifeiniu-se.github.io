@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,10 +15,12 @@ Contact me at: feifeiniu96@gmail.com OR fniu2@uottawa.ca
 
 Research Interests
 ======
-Software Quality Assurance, Software Testing, Requirements Engineering, AI4SE
+Software Quality Assurance, Software Testing, Requirements Engineering, AI4SE, LLM4SE
 
 Publications
 ======
+**[2024‘ASE]** Xiao Yu, Zexian Zhang, **Feifei Niu**, Xing Hu, Xin Xia, John Grundy: “What Makes a High-Quality Training Dataset for Large Language Models: A Practitioners’ Perspective”, in 39th International Conference on Automated Software Engineering, 2024, just accepted.
+
 **[2024‘ICSE Demo]** **Feifei Niu**, Junqian Shao, Chaofan Xu, Christoph Mayr-Dorn, Wesley Assunção, Liguo Huang, Chuanyi Li, Jidong Ge, Bin Luo, Alexander Egyed: "RAT: A Refactoring-Aware Tool for Tracking Code History", in 46th International Conference on Software Engineering (Demonstration), 2024. [🔗](https://dl.acm.org/doi/10.1145/3639478.3640047)
 
 **[2024'Journal of Software]** Zongwen Shen, **Feifei Niu**, Chuanyi Li, Xiang Chen, Qi Li, Jidong Ge, Bin Luo: “Two-Stage Bug Location Method Combining Information Retrieval and Deep Model Features”, Journal of Software (in Chinese), 2023. [🔗](https://www.jos.org.cn/jos/article/pdf/7111)
