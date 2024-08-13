@@ -25,7 +25,7 @@ Publications
 
 **[2024'ICSE Demo]** **Feifei Niu**, Junqian Shao, Chaofan Xu, Christoph Mayr-Dorn, Wesley Assunção, Liguo Huang, Chuanyi Li, Jidong Ge, Bin Luo, Alexander Egyed: "RAT: A Refactoring-Aware Tool for Tracking Code History", in 46th International Conference on Software Engineering (Demonstration), 2024. [🔗](https://dl.acm.org/doi/10.1145/3639478.3640047)
 
-**[2024'Journal of Software]** Zongwen Shen, **Feifei Niu**, Chuanyi Li, Xiang Chen, Qi Li, Jidong Ge, Bin Luo: “Two-Stage Bug Location Method Combining Information Retrieval and Deep Model Features”, Journal of Software (in Chinese), 2023. [🔗](https://www.jos.org.cn/jos/article/pdf/7111)
+**[2024'Journal of Software]** Zongwen Shen, **Feifei Niu**, Chuanyi Li, Xiang Chen, Qi Li, Jidong Ge, Bin Luo: “Two-Stage Bug Location Method Combining Information Retrieval and Deep Model Features”, Journal of Software (in Chinese), 2024. [🔗](https://www.jos.org.cn/jos/article/pdf/7111)
 
 **[2023'ICSE]** **Feifei Niu**, Wesley K. G. Assunçao, LiGuo Huang, Christoph Mayr-Dorn, Jidong Ge, Bin Luo, Alexander Egyed: “RAT: A Refactoring-Aware Traceability Model for Bug Localization”, in 45th International Conference on Software Engineering, 2023. [🔗](https://ieeexplore.ieee.org/abstract/document/10172549)
 
