@@ -19,7 +19,7 @@ Software Quality Assurance, Software Testing, Requirements Engineering, AI4SE, L
 
 Publications
 ======
-**[2024'EMSE]** **Feifei Niu**, Enshuo Zhang, Christoph Mayr-Dorn, Wesley K. G. Assunçao, LiGuo Huang, Jidong Ge, Bin Luo, Alexander Egyed: “An Extensive Replication Study of the ABLoTS Approach for Bug Localization”, in Empirical Software Engineering, 2024, just accepted.
+**[2024'EMSE]** **Feifei Niu**, Enshuo Zhang, Christoph Mayr-Dorn, Wesley K. G. Assunçao, LiGuo Huang, Jidong Ge, Bin Luo, Alexander Egyed: “An Extensive Replication Study of the ABLoTS Approach for Bug Localization”, in Empirical Software Engineering, 29(6), 143, 2024.[🔗](https://link.springer.com/article/10.1007/s10664-024-10537-6)
 
 **[2024'ASE]** Xiao Yu, Zexian Zhang, **Feifei Niu**, Xing Hu, Xin Xia, John Grundy: “What Makes a High-Quality Training Dataset for Large Language Models: A Practitioners’ Perspective”, in 39th International Conference on Automated Software Engineering, 2024, just accepted.
 
