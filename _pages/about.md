@@ -51,8 +51,19 @@ Tools
 
 Services
 ======
-Student volunteer: ICSE 2023
+- 2st AI Foundation Models and Software Engineering (FORGE 2025): Local Arrangements Co-Chair 
+- 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023) - student volunteer
 
-Reviewer: TOSEM, JSEP, IEEE Software, ASE Journal
+Program Committee
+======
+- 22nd International Conference on Mining Software Repositories (MSR 2025) - Data and Tool Showcase Track
+- 32st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025) - Industrial Track
+- ChinaSoft 2024 - Foundation Models for Software Engineering Track
+- 1st AI Foundation Models and Software Engineering (FORGE 2024) - Research Track
 
-Program Committee: FORGE (2024)
+Journal Reviewer
+======
+- ACM Transactions on Software Engineering and Methodology (TOSEM)
+- Journal of Software: Practice and Experience (JSPE)
+- IEEE Software
+- Automated Software Engineering Journal (ASE)
