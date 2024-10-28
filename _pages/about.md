@@ -17,11 +17,15 @@ Research Interests
 ======
 Software Quality Assurance, Software Testing, Requirements Engineering, AI4SE, LLM4SE
 
+Education
+======
+Nanjing University, Phd
+
 Publications
 ======
 **[2024'EMSE]** **Feifei Niu**, Enshuo Zhang, Christoph Mayr-Dorn, Wesley K. G. Assunçao, LiGuo Huang, Jidong Ge, Bin Luo, Alexander Egyed: “An Extensive Replication Study of the ABLoTS Approach for Bug Localization”, in Empirical Software Engineering, 29(6), 143, 2024.[🔗](https://link.springer.com/article/10.1007/s10664-024-10537-6)
 
-**[2024'ASE]** Xiao Yu, Zexian Zhang, **Feifei Niu**, Xing Hu, Xin Xia, John Grundy: “What Makes a High-Quality Training Dataset for Large Language Models: A Practitioners’ Perspective”, in 39th International Conference on Automated Software Engineering, 2024, just accepted.
+**[2024'ASE]** Xiao Yu, Zexian Zhang, **Feifei Niu**, Xing Hu, Xin Xia, John Grundy: “What Makes a High-Quality Training Dataset for Large Language Models: A Practitioners’ Perspective”, in 39th International Conference on Automated Software Engineering, 2024.[🔗](https://dl.acm.org/doi/10.1145/3691620.3695061)
 
 **[2024'ICSE Demo]** **Feifei Niu**, Junqian Shao, Chaofan Xu, Christoph Mayr-Dorn, Wesley Assunção, Liguo Huang, Chuanyi Li, Jidong Ge, Bin Luo, Alexander Egyed: "RAT: A Refactoring-Aware Tool for Tracking Code History", in 46th International Conference on Software Engineering (Demonstration), 2024. [🔗](https://dl.acm.org/doi/10.1145/3639478.3640047)
 
