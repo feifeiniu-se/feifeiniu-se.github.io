@@ -55,11 +55,12 @@ Tools
 
 Services
 ======
-- 2st AI Foundation Models and Software Engineering (FORGE 2025): Local Arrangements Co-Chair 
+- 2st AI Foundation Models and Software Engineering (FORGE 2025): Local Arrangements Co-Chair & Social Media Co-Chair
 - 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023) - student volunteer
 
 Program Committee
 ======
+- 22nd International Conference on Mining Software Repositories (MSR 2025) - Junior PC-track
 - 22nd International Conference on Mining Software Repositories (MSR 2025) - Data and Tool Showcase Track
 - 32st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025) - Industrial Track
 - ChinaSoft 2024 - Foundation Models for Software Engineering Track
