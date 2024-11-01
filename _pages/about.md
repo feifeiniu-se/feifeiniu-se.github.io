@@ -17,10 +17,6 @@ Research Interests
 ======
 Software Quality Assurance, Software Testing, Requirements Engineering, AI4SE, LLM4SE
 
-Education
-======
-Nanjing University, Phd
-
 Publications
 ======
 **[2024'EMSE]** **Feifei Niu**, Enshuo Zhang, Christoph Mayr-Dorn, Wesley K. G. Assunçao, LiGuo Huang, Jidong Ge, Bin Luo, Alexander Egyed: “An Extensive Replication Study of the ABLoTS Approach for Bug Localization”, in Empirical Software Engineering, 29(6), 143, 2024.[🔗](https://link.springer.com/article/10.1007/s10664-024-10537-6)
