@@ -67,4 +67,4 @@ Journal Reviewer
 - ACM Transactions on Software Engineering and Methodology (TOSEM)
 - Journal of Software: Practice and Experience (JSPE)
 - IEEE Software
-- Automated Software Engineering Journal (ASE)
+- Automated Software Engineering Journal (ASEJ)
